@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GenshinPitty/1.0.0": {
+        "runtime": {
+          "GenshinPitty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenshinPitty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

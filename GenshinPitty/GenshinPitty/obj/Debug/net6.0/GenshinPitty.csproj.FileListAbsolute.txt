@@ -1,0 +1,15 @@
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.csproj.AssemblyReference.cache
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.AssemblyInfoInputs.cache
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.AssemblyInfo.cs
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.csproj.CoreCompileInputs.cache
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\bin\Debug\net6.0\GenshinPitty.exe
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\bin\Debug\net6.0\GenshinPitty.deps.json
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\bin\Debug\net6.0\GenshinPitty.runtimeconfig.json
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\bin\Debug\net6.0\GenshinPitty.dll
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\bin\Debug\net6.0\GenshinPitty.pdb
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.dll
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\refint\GenshinPitty.dll
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.pdb
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\GenshinPitty.genruntimeconfig.cache
+C:\Users\bateszoe\Downloads\Zeke Bates\IntoToProgramingZekeBates\Genshin Pitty\GenshinPitty\GenshinPitty\obj\Debug\net6.0\ref\GenshinPitty.dll
